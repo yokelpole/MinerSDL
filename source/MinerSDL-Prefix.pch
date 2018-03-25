@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MinerSDL' target in the 'MinerSDL' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
